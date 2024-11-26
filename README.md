@@ -1,6 +1,7 @@
 # flutteraplicativo
 
 Aplicativo Flutter
+=SOMASES($P$2:$P$100, $C$2:$C$100, C2, $D$2:$D$100, D2)
 
 ## Getting Started
 
